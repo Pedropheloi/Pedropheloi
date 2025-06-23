@@ -1,5 +1,4 @@
-## 👋 Hey there!
-## Heloi here👋
+## 👋 Hey there! Heloi here 🤙
 
 ## 🎓 **Education:**
 - Higher Technician in Information Systems Programming – ISEC (Portugal)
