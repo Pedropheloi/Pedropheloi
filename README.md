@@ -15,4 +15,3 @@ I am a career-transitioning professional with a background in Law and a current 
 📫 **Contact:**
 - 📧 pedropheloi@gmail.com 
 - [LinkedIn](www.linkedin.com/in/pedro-paulo-heloi-da-silva-133317303)
-- https://pedropheloi.github.io/Curriculum/
